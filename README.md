@@ -1,5 +1,4 @@
-# Prototipo Flutter -- Laboratorio IV (UTN)
-
+# Prototipo Flutter 
 Prototipo desarrollado en Flutter. La
 aplicación simula un catálogo de películas utilizando datos mockeados,
 rutas nombradas y estructura modular.
